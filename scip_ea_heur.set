@@ -1,0 +1,8 @@
+# verbosity level of output
+# [type: int, range: [0,5], default: 4]
+display/verblevel = 3
+
+#time limit
+limits/time= 900
+
+display/freq = 5000
